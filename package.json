@@ -1,0 +1,40 @@
+{
+  "name": "openreport-framework",
+  "version": "1.0.0",
+  "description": "Open-source custom reporting framework for non-technical users to build, visualize, and schedule reports",
+  "type": "module",
+  "keywords": [
+    "reporting",
+    "dashboard",
+    "data-visualization",
+    "react",
+    "business-intelligence",
+    "analytics"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AarushAgarwal-dev/openreport-framework.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AarushAgarwal-dev/openreport-framework/issues"
+  },
+  "homepage": "https://github.com/AarushAgarwal-dev/openreport-framework#readme",
+  "license": "MIT",
+  "author": "OpenReport Contributors",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "typescript": "~6.0.2",
+    "vite": "^8.0.12"
+  },
+  "dependencies": {
+    "date-fns": "^4.2.1",
+    "lucide-react": "^1.16.0",
+    "react-router-dom": "^7.15.1",
+    "recharts": "^3.8.1",
+    "uuid": "^14.0.0"
+  }
+}
