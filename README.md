@@ -1,4 +1,4 @@
-# OpenReport Framework 🚀
+# OpenReport Framework 
 
 OpenReport is a premium, open-source Custom Reporting Framework designed to empower non-technical stakeholders to build, visualize, and schedule reports from complex operational data without engineering intervention. 
 
@@ -22,7 +22,7 @@ Designed originally with financial backoffice systems in mind, the architecture 
 
 ---
 
-## ✨ Features
+##  Features
 <a name="features"></a>
 
 - **Dynamic Report Builder:** 3-step wizard to select data sources, columns, filters, sorting, and grouping.
@@ -42,7 +42,7 @@ Designed originally with financial backoffice systems in mind, the architecture 
 - **Icons:** Lucide React
 - **Styling:** Vanilla CSS (CSS Variables for theming)
 
-## 🚀 Getting Started
+##  Getting Started
 <a name="getting-started"></a>
 
 ### Prerequisites
@@ -77,12 +77,12 @@ Out of the box, OpenReport uses a mock data generator (`src/data/mockData.js`). 
 2. **Fetch data:** Modify the `loadDataCache` logic in `src/context/ReportContext.jsx` to fetch from your REST endpoints or WebSockets instead of calling the mock generators.
 3. **Handle Server-Side Operations:** If dealing with millions of rows, you can move the `engine/reportEngine.js` logic to your backend (e.g., translating the JSON report config into SQL or Elasticsearch queries) and implement server-side pagination.
 
-## 🤝 Contributing
+##  Contributing
 <a name="contributing"></a>
 
 We welcome contributions from the community! Please read our [Contributing Guide](CONTRIBUTING.md) for details on our code of conduct and the process for submitting pull requests.
 
-## 📄 License
+## License
 <a name="license"></a>
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
