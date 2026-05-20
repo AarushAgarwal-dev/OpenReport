@@ -33,7 +33,7 @@ Designed originally with financial backoffice systems in mind, the architecture 
 - **Export & Share:** One-click CSV exports and easy link sharing.
 - **Enterprise Dark Theme:** A sleek, high-contrast, professional UI built with custom CSS (no heavy UI libraries required).
 
-## 🛠 Tech Stack
+## Tech Stack
 <a name="tech-stack"></a>
 
 - **Frontend Core:** React 18, Vite
@@ -69,7 +69,7 @@ Ensure you have Node.js (v18+) and npm installed.
 
 4. Open `http://localhost:5173` in your browser.
 
-## 🔌 Integrating Your Own Data
+##  Integrating Your Own Data
 
 Out of the box, OpenReport uses a mock data generator (`src/data/mockData.js`). To integrate your real backend APIs:
 
