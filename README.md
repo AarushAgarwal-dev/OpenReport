@@ -9,7 +9,7 @@ Designed originally with financial backoffice systems in mind, the architecture 
 </p>
 
 <p align="center">
-  <strong>Empower non-technical users to build, visualize, and schedule reports without engineering intervention</strong>
+  <strong>Empowering non-technical users to build, visualize, and schedule reports without engineering intervention</strong>
 </p>
 
 <p align="center">
