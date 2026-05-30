@@ -31,7 +31,7 @@ Designed originally with financial backoffice systems in mind, the architecture 
 - **Aggregations & Grouping:** Group your data by any categorical column and see automatic aggregations (count, sum, average).
 - **Scheduling UI:** Allow users to define daily, weekly, or monthly execution schedules.
 - **Export & Share:** One-click CSV exports and easy link sharing.
-- **Enterprise Dark Theme:** A sleek, high-contrast, professional UI built with custom CSS (no heavy UI libraries required).
+- **Enterprise Dark Theme:** A sleek, high-contrast, and professional UI built with custom CSS (no heavy UI libraries required).
 
 ## Tech Stack
 <a name="tech-stack"></a>
